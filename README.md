@@ -83,12 +83,12 @@ I care deeply about writing clear code, creating predictable systems, and improv
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Streak Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-master-ajayaradhya.vercel.app/api?username=ajayaradhya&show_icons=true" />
-  <img height="170" src="https://github-readme-stats-git-master-ajayaradhya.vercel.app/api/top-langs/?username=ajayaradhya&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=ajayaradhya&theme=default"/>
 </p>
+
 
 
 ---
