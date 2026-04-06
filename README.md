@@ -20,12 +20,12 @@ I am a Senior Software Engineer with over 8 years of experience building high-sc
 
 ### Featured Projects
 
-#### 📂 CodeLens AI
+#### 📂 [CodeLens AI](https://github.com/ajayaradhya/code-lens-ai)
 An AI-driven productivity tool designed to help developers navigate and understand complex codebases through agentic workflows.
 * **Tech:** LangGraph, FastAPI, ChromaDB.
 * **Key Feature:** Uses stateful agents to navigate multi-repo architectures and provide real-time context for legacy code modernization.
 
-#### 📂 Veridian Atlas
+#### 📂 [Veridian Atlas](https://github.com/ajayaradhya/veridian-atlas)
 A full-stack RAG system engineered to analyze and extract insights from high-density financial and legal documentation.
 * **Tech:** Python, LangChain, Vector Databases.
 * **Key Feature:** Implements advanced chunking and semantic search to handle complex credit agreements and loan documents.
@@ -50,6 +50,11 @@ A full-stack RAG system engineered to analyze and extract insights from high-den
 * **Production-First AI:** I move AI beyond the "wrapper" phase by focusing on evaluation frameworks, deterministic guardrails, and cost-efficient scaling.
 * **System Observability:** I believe a system is only as good as its telemetry. I prioritize measurable, traceable, and debuggable architectures.
 * **Developer Velocity:** My background at Citrix instilled a "tools-first" mindset—I build the automation that allows teams to ship faster and safer.
+
+### Beyond the Code
+* **Intermediate Badminton Player:** When I'm not optimizing RAG pipelines, you'll find me on the court working on my smash.
+* **Shih Tzu Parent:** Proud owner of a very demanding (but adorable) fluff-ball.
+* **Tactical Gaming:** Reaching for those high frame rates in Valorant.
 
 ### Current Status
 * **Location:** Sydney, NSW (Relocating)
