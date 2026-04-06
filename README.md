@@ -1,6 +1,9 @@
 # Ajay B L
-**Senior Software Engineer | ML Engineer | AI Integration Specialist** 
-*Australian Permanent Resident (Subclass 190) with Full Work Rights*
+### **Bridging the gap between Robust Backend & Intelligent Agents**
+
+**Experience** `0x08 Years` | **Location** `Sydney, AU` | **Visa** `Subclass 190 (PR)`
+
+*Building production-grade AI systems, from **Veridian Atlas** to agentic RAG workflows.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-bl) [![SEEK](https://img.shields.io/badge/SEEK-0D3880?style=flat-square&logo=seek&logoColor=white)](https://www.seek.com.au/profiles/ajay-bl-fwmKl0v6CT) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajayaradhya)
 
