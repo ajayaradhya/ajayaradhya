@@ -1,9 +1,9 @@
 # Ajay B L
-**Senior Software Engineer | ML Engineer | [cite_start]Distributed Systems Specialist** *Australian Permanent Resident (Subclass 190) — Full Work Rights* [cite: 3, 30]
+**Senior Software Engineer | ML Engineer | Distributed Systems Specialist** *Australian Permanent Resident (Subclass 190) — Full Work Rights*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-bl) [![SEEK](https://img.shields.io/badge/SEEK-0D3880?style=flat-square&logo=seek&logoColor=white)](https://www.seek.com.au/profiles/ajay-bl-fwmKl0v6CT) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajayaradhya)
 
-[cite_start]I am a Senior Software Engineer with over 8 years of experience building high-scale distributed systems and Fintech platforms[cite: 28]. [cite_start]My career is defined by bridging the gap between robust backend architecture and production-grade Generative AI[cite: 29]. [cite_start]From architecting global loan systems at **Goldman Sachs** to engineering agentic risk pipelines at **Tide**, I focus on building systems that are observable, resilient, and built for long-term evolution[cite: 41, 46].
+I am a Senior Software Engineer with over 8 years of experience building high-scale distributed systems and Fintech platforms. My career is defined by bridging the gap between robust backend architecture and production-grade Generative AI. From architecting global loan systems at **Goldman Sachs** to engineering agentic risk pipelines at **Tide**, I focus on building systems that are observable, resilient, and built for long-term evolution.
 
 ### Technical Core
 
@@ -28,26 +28,26 @@ A full-stack RAG system engineered to analyze and extract insights from high-den
 
 ### Professional Journey
 
-**Machine Learning Engineer | [cite_start]Tide** (Mar 2026 – Present) [cite: 41, 42]
-* Engineered a high-reliability multi-agent risk assessment pipeline using **LangGraph**[cite: 43].
-* [cite_start]Implemented stateful persistence and reliable checkpoints to automate onboarding analysis for high-volume business applicants[cite: 44].
-* [cite_start]Developed high-availability services for UK data APIs, reducing manual verification latency[cite: 45].
+**Machine Learning Engineer | Tide** (Mar 2026 – Present)
+* Engineered a high-reliability multi-agent risk assessment pipeline using **LangGraph**.
+* Implemented stateful persistence and reliable checkpoints to automate onboarding analysis for high-volume business applicants.
+* Developed high-availability services for UK data APIs, reducing manual verification latency.
 
-**Senior Software Engineer | [cite_start]Goldman Sachs** (Oct 2021 – Apr 2025) [cite: 46, 47]
-* [cite_start]Architected a high-security document intelligence platform for internal legal documents using a private OpenAI cluster[cite: 48].
-* Led the end-to-end design of a global loan origination platform using Python (Django) and Microservices[cite: 49].
-* [cite_start]Managed integrations with 10+ global systems, ensuring 99.9% data consistency[cite: 51].
+**Senior Software Engineer | Goldman Sachs** (Oct 2021 – Apr 2025)
+* Architected a high-security document intelligence platform for internal legal documents using a private OpenAI cluster.
+* Led the end-to-end design of a global loan origination platform using Python (Django) and Microservices.
+* Managed integrations with 10+ global systems, ensuring 99.9% data consistency.
 
-**Senior Software Engineer | [cite_start]Citrix R&D** (Sep 2017 – Oct 2021) [cite: 52, 53]
-* Built internal automation tools used by 500+ engineers, improving global software release success rates[cite: 54].
-* [cite_start]Developed a custom validation platform using FastAPI and MongoDB, reducing build validation cycles by 60%[cite: 55].
+**Senior Software Engineer | Citrix R&D** (Sep 2017 – Oct 2021)
+* Built internal automation tools used by 500+ engineers, improving global software release success rates.
+* Developed a custom validation platform using FastAPI and MongoDB, reducing build validation cycles by 60%.
 
 ### Engineering Philosophy
 * **Production-First AI:** I move AI beyond the "wrapper" phase by focusing on evaluation frameworks, deterministic guardrails, and cost-efficient scaling.
-* **System Observability:** I believe a system is only as good as its telemetry. [cite_start]I prioritize measurable, traceable, and debuggable architectures[cite: 37].
-* **Developer Velocity:** My background at Citrix instilled a "tools-first" mindset—I build the automation that allows teams to ship faster and safer[cite: 56].
+* **System Observability:** I believe a system is only as good as its telemetry. I prioritize measurable, traceable, and debuggable architectures.
+* **Developer Velocity:** My background at Citrix instilled a "tools-first" mindset—I build the automation that allows teams to ship faster and safer.
 
 ### Current Status
-* [cite_start]**Location:** Sydney, NSW (Relocating) [cite: 7]
-* [cite_start]**Availability:** Immediate (Sydney-based or Remote) [cite: 30]
-* **Education:** Bachelor of Engineering in Computer Science, PES Institute of Technology (2013-2017) [cite: 24, 25, 26]
+* **Location:** Sydney, NSW (Relocating)
+* **Availability:** Immediate (Sydney-based or Remote)
+* **Education:** Bachelor of Engineering in Computer Science, PES Institute of Technology (2013-2017)
